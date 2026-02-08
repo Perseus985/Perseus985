@@ -1,11 +1,5 @@
 <br clear="both">
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhoNDEyaGdrZHI4cG82aXVtbzh4czNla3hma2ZtMDE3NzluYjhqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
-
-###
-
-<br clear="both">
-
 <h1 align="left">Kevin Stellmacher 👾</h1>
 
 ###
@@ -95,7 +89,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Perseus985&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Perseus985&column=0&theme=flat&no-bg=true" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<p align="left">Last updated: 8. Feb 2026</p>
 
 ###
