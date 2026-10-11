@@ -14,19 +14,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # before snk: its container runs as root and would own dist/
+      - run: mkdir -p dist && mv profile-3d-contrib dist/
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - run: mv profile-3d-contrib dist/
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
