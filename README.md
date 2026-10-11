@@ -27,11 +27,4 @@
   <img src="https://raw.githubusercontent.com/Perseus985/Perseus985/output/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
 </picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Perseus985/Perseus985/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Perseus985/Perseus985/output/github-snake.svg" width="100%" alt="Contribution snake" />
-  </picture>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=100&section=footer" width="100%" alt="Footer" />
