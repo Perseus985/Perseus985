@@ -16,7 +16,7 @@
 - ☁️ Doing many cloudy things – mostly Kubernetes, GitOps and Infrastructure as Code
 - 🔐 Security baked into the pipeline, not bolted on afterwards
 - 🐧 Linux & Nix enthusiast
-- 🧰 Daily stack: Kubernetes · Argo CD · Terraform · Ansible · Azure · Prometheus/Grafana · GitLab CI
+- 🧰 Daily stack: Kubernetes · Argo CD · Terraform · AWS / GCP · Prometheus/Grafana · GitLab CI
 
 ---
 
